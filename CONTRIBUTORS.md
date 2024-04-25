@@ -7676,8 +7676,6 @@
 
 - [@Ruanesterhuyse](https://github.com/RuanEsterhuyse)
 
-- [@Rubberduckoffline](https://github.com/rubberduck-offline)
-
 - [@Ruben](https://github.com/Rube01)
 
 - [@Rubenverkuylen](https://github.com/rubenverkuylen)
@@ -11525,3 +11523,5 @@
 -[@robbloxham](https://github.com/robbloxham)
 
 - [@usama](https://github.com/usama-rahman)
+
+- [@Rubberduckoffline](https://github.com/rubberduck-offline)
